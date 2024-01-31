@@ -38,3 +38,5 @@ with
   若$display(sum_n^infinity a_n) $,$display(sum_n^infinity b_n ) $都收敛,则$ alpha sum_n^infinity a_n+beta sum_n^infinity b_n $<收敛级数的线性>也收敛
 ])
 @收敛级数的线性 
+\
+dadadaddadaddadada
