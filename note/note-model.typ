@@ -30,6 +30,7 @@
  #let dinyi(thm-type,name,number,body) = box(
 {[*_Def_* #number
 ]
+body
 },
 fill: rgb("#E6E6FA"),
   inset: 1em
@@ -111,7 +112,7 @@ fill: rgb("#E6E6FA"),
   // Main body.
   set par(justify: true)
 
-  show "。": "．"
+
 
 
 
